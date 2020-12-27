@@ -1,7 +1,7 @@
 # 42_minishell
 A teeny tiny shell built by rturcey and esoulard.
 
-_Includes a tester that we borrowed from sdunkel and enriched with everything we could think of!_
+_Includes an awesome tester initially posted by our 42 collegue sdunkel and to which we added everything we could!_
 
 **A lovely simili shell with:**
   - custom prompt, 
